@@ -1,2 +1,2 @@
-# first-python-aws-file
+# python-aws-file
 this is a demo repository
